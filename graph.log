@@ -1,0 +1,24 @@
+* 87654c4 Agregando párrafo
+* 35cc7fd Agregando estaciones del año con fecha, segundo
+*   a71c1b6 Merge branch 'main' of https://github.com/crisqs77/git-kris
+|\  
+| * 5ea0bcd Agregando estaciones del año
+* | ff5647b Agregando estaciones del año con fecha
+|/  
+*   667f497 Resolviendo merge main/html en el documento index.html
+|\  
+| * 5a20f3a Agregando index.js al index html
+* | ab924e6 Agregando style.css al index.html
+* |   e02324f Merge branch 'js'
+|\ \  
+| * | 14579b7 Creando index.js
+* | | 04cdef5 Creando styles.css
+| |/  
+|/|   
+* | 114e491 Creando index.html
+|/  
+* 1893d20 Ignorando archivos .exe
+* 71de929 Crear Licencia
+* e283a9a agregando mas contenido al README
+* 23370dd agregando contenido al README
+* c6bb05f Primer commit

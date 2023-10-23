@@ -1,0 +1,104 @@
+commit 87654c4a52da8f9a4f3930b6a4e8ddf1c067153c
+Author: Cristhian Quesada <cris.qs.77@gmail.com>
+Date:   Sun Oct 22 21:23:01 2023 -0600
+
+    Agregando párrafo
+
+commit 35cc7fdafac098d6a4c0149cb50477b43bf10fd7
+Author: Cristhian Quesada <cris.qs.77@gmail.com>
+Date:   Sun Oct 22 20:54:00 2023 -0600
+
+    Agregando estaciones del año con fecha, segundo
+
+commit a71c1b69ea773160a810a74e065990ff03857f12
+Merge: ff5647b 5ea0bcd
+Author: Cristhian Quesada <cris.qs.77@gmail.com>
+Date:   Sun Oct 22 20:02:29 2023 -0600
+
+    Merge branch 'main' of https://github.com/crisqs77/git-kris
+
+commit ff5647bd5eb88ebc0d9a8ff4f5103178b5f13e0a
+Author: Cristhian Quesada <cris.qs.77@gmail.com>
+Date:   Sun Oct 22 19:32:20 2023 -0600
+
+    Agregando estaciones del año con fecha
+
+commit 5ea0bcdf4b441b769f446ba2e613f2c1143a6e89
+Author: Cristhian Quesada <cris.qs.77@gmail.com>
+Date:   Sun Oct 22 19:32:20 2023 -0600
+
+    Agregando estaciones del año
+
+commit 667f497f5a4bc6d81f40f69bd69d81c1cbd3aceb
+Merge: ab924e6 5a20f3a
+Author: Cristhian Quesada <cris.qs.77@gmail.com>
+Date:   Sun Oct 22 19:17:31 2023 -0600
+
+    Resolviendo merge main/html en el documento index.html
+
+commit 5a20f3a190ec41936f94e468bd16c3c081be8cb8
+Author: Cristhian Quesada <cris.qs.77@gmail.com>
+Date:   Sun Oct 22 18:49:37 2023 -0600
+
+    Agregando index.js al index html
+
+commit ab924e66d3d15d09621b300f25e29d5ec84adf32
+Author: Cristhian Quesada <cris.qs.77@gmail.com>
+Date:   Sun Oct 22 18:41:06 2023 -0600
+
+    Agregando style.css al index.html
+
+commit e02324f6c951cb309f46aa4d9c3f6b69c5be38de
+Merge: 04cdef5 14579b7
+Author: Cristhian Quesada <cris.qs.77@gmail.com>
+Date:   Sun Oct 22 18:06:53 2023 -0600
+
+    Merge branch 'js'
+
+commit 14579b726ea33ac86356834d6ae6f3a3e7f55dfb
+Author: Cristhian Quesada <cris.qs.77@gmail.com>
+Date:   Sun Oct 22 15:58:07 2023 -0600
+
+    Creando index.js
+
+commit 04cdef52671abc92ef9f5a470a3acdb067f5553c
+Author: Cristhian Quesada <cris.qs.77@gmail.com>
+Date:   Sun Oct 22 15:40:06 2023 -0600
+
+    Creando styles.css
+
+commit 114e491ffb502f3e90a89fa33f9827da34d16820
+Author: Cristhian Quesada <cris.qs.77@gmail.com>
+Date:   Sun Oct 22 15:23:24 2023 -0600
+
+    Creando index.html
+
+commit 1893d20fb9483c9a0aeda074ee8650d8123d1dd4
+Author: Cristhian Quesada <cris.qs.77@gmail.com>
+Date:   Sun Oct 22 12:44:48 2023 -0600
+
+    Ignorando archivos .exe
+
+commit 71de9291a636913c35a59a7dd005106a8875b9e0
+Author: crisqs77 <64340944+crisqs77@users.noreply.github.com>
+Date:   Sat Oct 21 21:27:17 2023 -0600
+
+    Crear Licencia
+
+commit e283a9a7543f8c13ed7ef4362f8244a9b9987612
+Author: Cristhian Quesada <cris.qs.77@gmail.com>
+Date:   Sat Oct 21 20:53:18 2023 -0600
+
+    agregando mas contenido al README
+
+commit 23370ddcb6b396dbafbf908555877b440b0170d8
+Author: Cristhian Quesada <cris.qs.77@gmail.com>
+Date:   Sat Oct 21 20:20:27 2023 -0600
+
+    agregando contenido al README
+
+commit c6bb05f1efe9ae1b6430e2bc785f95843a037f13
+Author: Cristhian Quesada <cris.qs.77@gmail.com>
+Date:   Sat Oct 21 20:08:58 2023 -0600
+
+    Primer commit

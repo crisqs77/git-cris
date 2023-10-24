@@ -6,3 +6,5 @@ Agregando más contenido al _README.md_
 
 Este commit es para oficializar nuestra version **1.0.0**
 
+Cambio de prueba, desde la segunda cuenta de Git(kris)
+

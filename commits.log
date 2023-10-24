@@ -1,3 +1,91 @@
+commit 110ef149b9ef7c89fb75411e38f1e83556d096a7
+Merge: 7415d50 f41569b
+Author: crisqs77 <64340944+crisqs77@users.noreply.github.com>
+Date:   Tue Oct 24 03:03:10 2023 -0600
+
+    Merge pull request #1 from krisqs07/readme-kris
+    
+    Readme kris
+
+commit f41569b4b2c366879f7dfa3e8b065a77d6b9508f
+Merge: fc115e3 7415d50
+Author: crisqs77 <64340944+crisqs77@users.noreply.github.com>
+Date:   Tue Oct 24 02:57:24 2023 -0600
+
+    Merge branch 'main' into readme-kris
+
+commit fc115e3047bad005bc7857dbdc29e24a2ef8c61a
+Author: Kristhian Quesada X <cris.qs77@yahoo.com>
+Date:   Tue Oct 24 02:23:58 2023 -0600
+
+    Haciendo mejoras al readme del repositorio
+
+commit 7415d50f3118091b5dc5afa2818bf0054682e0a1
+Author: Kristhian Quesada X <cris.qs77@yahoo.com>
+Date:   Tue Oct 24 01:02:37 2023 -0600
+
+    6
+
+commit 7b6923b4e65b105c2962aff063b46893e3117827
+Author: Kristhian Quesada <cris.qs77@yahoo.com>
+Date:   Tue Oct 24 00:51:41 2023 -0600
+
+    x
+
+commit 3d10b33ef47738cc9de0f54100fc6390eef93740
+Author: Kristhian Quesada <cris.qs77@yahoo.com>
+Date:   Mon Oct 23 23:50:23 2023 -0600
+
+    Haciendo mejoras al readme del repositorio(kris)
+
+commit 77a5b5a460f414a859ff8a71a36dd45639c0b008
+Author: Kristhian Quesada <cris.qs77@yahoo.com>
+Date:   Mon Oct 23 23:34:43 2023 -0600
+
+    5 Cambio de prueba, desde la segunda cuenta de Git(kris)
+
+commit eaae28fd1542a940aa7c35c6979ae6ef601a94f4
+Author: Kristhian Quesada <cris.qs77@yahoo.com>
+Date:   Mon Oct 23 23:24:09 2023 -0600
+
+    4 Cambio de prueba desde la segunda cuenta de Git(kris)
+
+commit d84a168cb6a5803452ceea4e71f10198ae511b83
+Author: Kristhian Quesada <cris.qs77@yahoo.com>
+Date:   Mon Oct 23 23:06:12 2023 -0600
+
+    3 Cambio de prueba desde la segunda cuenta de Git(kris)
+
+commit 0f7fbeae83dd919615e5ce6ffb09217e688fba3e
+Author: Kristhian Quesada <cris.qs77@yahoo.com>
+Date:   Mon Oct 23 22:34:55 2023 -0600
+
+    2 Cambio de prueba desde la segunda cuenta de Git(kris)
+
+commit b3cb0f231bf0d0f41b17ec3ed81c67a9d6a789ef
+Author: Kristhian Quesada <cris.qs77@yahoo.com>
+Date:   Mon Oct 23 19:35:03 2023 -0600
+
+    Cambio de prueba desde la segunda cuenta de Git(kris)
+
+commit b13c5b7fff876d2b5cf3203b6b895e0955793e7d
+Author: Cristhian Quesada <cris.qs.77@gmail.com>
+Date:   Mon Oct 23 15:12:36 2023 -0600
+
+    Agregando imagen a index.html
+
+commit c49d75f1c60bc9a7d32e77443c3d774a05799037
+Author: Cristhian Quesada <cris.qs.77@gmail.com>
+Date:   Mon Oct 23 14:09:07 2023 -0600
+
+    v1.0.0
+
+commit 0dac025f25f9dbb0f3d16bffe50288b922f4e9f3
+Author: Cristhian Quesada <cris.qs.77@gmail.com>
+Date:   Mon Oct 23 13:24:04 2023 -0600
+
+    Respaldando logs del repositorio
+
 commit 87654c4a52da8f9a4f3930b6a4e8ddf1c067153c
 Author: Cristhian Quesada <cris.qs.77@gmail.com>
 Date:   Sun Oct 22 21:23:01 2023 -0600

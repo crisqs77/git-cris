@@ -13,5 +13,3 @@ Cuarto Cambio de prueba, desde la segunda cuenta de Git(kris)
 Quinto Cambio de prueba, desde la segunda cuenta de Git(kris)
 
 ![imagen](images.jpg)
-
-x

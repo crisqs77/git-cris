@@ -1,3 +1,77 @@
+commit 17730f504743bda4d098d31dcb7bf49f8d6576fc
+Merge: 223f78e 3130859
+Author: crisqs77 <64340944+crisqs77@users.noreply.github.com>
+Date:   Tue Oct 24 18:48:15 2023 -0600
+
+    Merge pull request #5 from krisqs07/readme-kris
+    
+    Cambio 9 confirmado
+
+commit 31308595255a3599cb35fc58a83a8b833e1ad117
+Author: Kristhian Quesada X <cris.qs77@yahoo.com>
+Date:   Tue Oct 24 17:59:12 2023 -0600
+
+    Cambio 9
+
+commit 223f78ee17ff9818c2659f5edcedf3b728883874
+Merge: 48c80a1 f491e3f
+Author: crisqs77 <64340944+crisqs77@users.noreply.github.com>
+Date:   Tue Oct 24 17:43:08 2023 -0600
+
+    Merge pull request #4 from krisqs07/main
+    
+    Cambio 8 aceptado
+
+commit f491e3f9bd4be296f1f12b0550ab2da4f663ea29
+Author: Kristhian Quesada X <cris.qs77@yahoo.com>
+Date:   Tue Oct 24 17:00:09 2023 -0600
+
+    Creando cambio 8
+
+commit 48c80a15cfafc187d5897f8f4d86cd06478a19f0
+Merge: f8a1c44 4928797
+Author: crisqs77 <64340944+crisqs77@users.noreply.github.com>
+Date:   Tue Oct 24 16:45:49 2023 -0600
+
+    Merge pull request #3 from krisqs07/main
+    
+    Pull Request, aceptarlo, aceptado
+
+commit 492879783a37e1e1dd4f66d24bae48285249336b
+Merge: 02033c2 f8a1c44
+Author: krisqs07 <148825693+krisqs07@users.noreply.github.com>
+Date:   Tue Oct 24 16:21:36 2023 -0600
+
+    Merge branch 'crisqs77:main' into main
+
+commit f8a1c4402f0edd1719c40ac7ec01d8938ebb1420
+Author: Cristhian Quesada <cris.qs.77@gmail.com>
+Date:   Tue Oct 24 14:15:04 2023 -0600
+
+    Agregando al log el pull request de kris
+
+commit 02033c29efb9fb0c7e5e8cdb2849534b2558e0f2
+Merge: 538f6ab c3ffae8
+Author: Kristhian Quesada X <cris.qs77@yahoo.com>
+Date:   Tue Oct 24 13:59:38 2023 -0600
+
+    Merge branch 'main' of https://github.com/krisqs07/git-kris
+
+commit 538f6ab6c78adbab9a493a41a58e845516f3c11c
+Merge: afadbd4 110ef14
+Author: Kristhian Quesada X <cris.qs77@yahoo.com>
+Date:   Tue Oct 24 13:50:29 2023 -0600
+
+    Traer los cambios desde main de cris hacia kris
+    Merge branch 'main' of https://github.com/crisqs77/git-cris
+
+commit c3ffae8f5c5fe80578200b4e079d7bf7328858a5
+Merge: afadbd4 110ef14
+Author: krisqs07 <148825693+krisqs07@users.noreply.github.com>
+Date:   Tue Oct 24 03:19:38 2023 -0600
+
+    Merge branch 'crisqs77:main' into main
+
 commit 110ef149b9ef7c89fb75411e38f1e83556d096a7
 Merge: 7415d50 f41569b
 Author: crisqs77 <64340944+crisqs77@users.noreply.github.com>
@@ -19,6 +93,12 @@ Author: Kristhian Quesada X <cris.qs77@yahoo.com>
 Date:   Tue Oct 24 02:23:58 2023 -0600
 
     Haciendo mejoras al readme del repositorio
+
+commit afadbd4e35ba8cbffdc55394940793da985bbeee
+Author: Kristhian Quesada X <cris.qs77@yahoo.com>
+Date:   Tue Oct 24 01:19:25 2023 -0600
+
+    7
 
 commit 7415d50f3118091b5dc5afa2818bf0054682e0a1
 Author: Kristhian Quesada X <cris.qs77@yahoo.com>
